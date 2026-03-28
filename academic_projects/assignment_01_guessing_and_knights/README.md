@@ -30,5 +30,3 @@ Or run each file separately:
 Run the tests with:
 
 `python -m unittest discover -s tests`
-
-This project is part of my Python projects repository.
