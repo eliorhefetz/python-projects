@@ -4,7 +4,6 @@ This folder contains two Python exercises:
 
 - `guessing_game.py` — a number guessing game with limited attempts and a hint after several guesses
 - `knights_battle.py` — a simple battle simulation between two knights based on HP and attack power
-- `main.py` — a simple menu for choosing which part to run
 
 
 ## Topics Used
