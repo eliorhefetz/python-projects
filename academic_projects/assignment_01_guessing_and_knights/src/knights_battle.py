@@ -168,3 +168,6 @@ def run_knights_battle() -> None:
         print("The battle ended in a draw.")
     else:
         print(f"The winner is: {result.winner_name}")
+
+if __name__ == "__main__":
+    run_knights_battle()

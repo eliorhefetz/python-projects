@@ -130,3 +130,6 @@ def run_guessing_game() -> None:
             print(result.hint)
         if not result.is_correct and not result.is_disqualified:
             print(f"Attempts remaining: {result.attempts_remaining}")
+
+if __name__ == "__main__":
+    run_guessing_game()
