@@ -19,11 +19,7 @@ This folder contains a Python tournament simulation project.
 
 ## Run
 
-Run the main file:
-
-`python src/main.py`
-
-Or run the project file directly:
+Run the project file:
 
 `python src/players_tournament.py`
 
